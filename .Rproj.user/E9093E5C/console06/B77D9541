@@ -1,0 +1,19 @@
+]0;~/Desktop/R/Coursera[?1034hyaojiayingdeMacBook-Pro:Coursera yaojiaying$ [KyaojiayingdeMacBook-Pro:Coursera yaojiaying$ git init
+Initialized empty Git repository in /Users/yaojiaying/Desktop/R/Coursera/.git/
+]0;~/Desktop/R/CourserayaojiayingdeMacBook-Pro:Coursera yaojiaying$ commit -m [K[K[K[K[K[K[K[K[K[Kgit commit -m "Iinit[K[K[K[Knitial com mit" "o"n"e" "l"i"n"e"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[1P"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P"c"o" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm""m"i"t"
+On branch master
+
+Initial commit
+
+Untracked files:
+	[31m.Rhistory[m
+	[31m.Rproj.user/[m
+	[31mCoursera.Rproj[m
+	[31mFirst R Markdown.Rmd[m
+	[31mFirst-R-Markdown.pdf[m
+	[31mHelloWorld[m
+	[31mmyRStudio/[m
+
+nothing added to commit but untracked files present
+]0;~/Desktop/R/CourserayaojiayingdeMacBook-Pro:Coursera yaojiaying$ git add .

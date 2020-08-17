@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1597647246385.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4077816752",
+    "id" : "226D4856",
+    "lastKnownWriteTime" : 1597650390,
+    "last_content_update" : 1597650390594,
+    "path" : "~/Desktop/R/Coursera/First R Markdown.Rmd",
+    "project_path" : "First R Markdown.Rmd",
+    "properties" : {
+        "cursorPosition" : "23,18",
+        "last_setup_crc32" : "DC5F6C19bb338d19",
+        "scrollLine" : "11",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
