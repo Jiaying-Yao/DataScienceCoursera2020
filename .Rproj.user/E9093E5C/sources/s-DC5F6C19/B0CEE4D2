@@ -7,10 +7,10 @@
     "folds" : "",
     "hash" : "3398810732",
     "id" : "B0CEE4D2",
-    "lastKnownWriteTime" : 1597655621,
-    "last_content_update" : 1597655621930,
-    "path" : "~/Desktop/R/Coursera/HelloWorld",
-    "project_path" : "HelloWorld",
+    "lastKnownWriteTime" : 1597656699,
+    "last_content_update" : 1597656699049,
+    "path" : "~/Desktop/R/Coursera/HelloWorld.md",
+    "project_path" : "HelloWorld.md",
     "properties" : {
         "cursorPosition" : "0,26",
         "scrollLine" : "0",
@@ -19,5 +19,5 @@
     "relative_order" : 3,
     "source_on_save" : false,
     "source_window" : "",
-    "type" : "text"
+    "type" : "markdown"
 }
